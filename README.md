@@ -12,9 +12,6 @@ Due to the use of different training frameworks in Stage 1 and other stages, you
 
 - requirement.txt
 
-Sure! Here’s a suggested section for your GitHub README that explains the code modifications you’ve made:
-
----
 
 ## Code Modification Overview
 
